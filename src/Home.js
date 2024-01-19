@@ -83,7 +83,7 @@ export default function Example() {
       </div>
 
       <footer>
-        <Footer />
+        <Footer companyName='Toko Sebelah' currentYear='2024' />
       </footer>
     </div>
   );
